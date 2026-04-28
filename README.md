@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, Gaurav Rajendra Patil</h1>
-<h3 align="center">DevOps Engineer | AWS • Docker • CI/CD • Linux</h3>
+<h1 align="center">HELLO 👋, I'm Gaurav Rajendra Patil ✨</h1>
+<h3 align="center">DevOps Engineer | Cloud Architect | AWS • Docker • CI/CD • Linux</h3>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/gaurav-patil-37292a273" target="_blank">LinkedIn</a> •
@@ -10,14 +10,14 @@
 
 ## 👨‍💻 About Me
 
-- 🎓 2025 Graduate from **B.K.Birla College**
+- 🎓 2025 Post-Graduate from **B.K.Birla College**
 - 🔧 Aspiring **DevOps / Cloud Engineer**
 - 🚀 Interested in **cloud infrastructure, automation, and CI/CD pipelines**
 - 🌱 Learning through hands-on projects and real-world deployments
 
 ---
 
-## 🛠️ Deep Technical Proficiency
+## 🛠️ Technical Proficiency
 
 ---
 
@@ -37,7 +37,7 @@
 | ![](https://img.shields.io/badge/CI%2FCD-2088FF?style=flat-square) | ![](https://img.shields.io/badge/GitHub%20Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white) ![](https://img.shields.io/badge/Jenkins-D24939?style=flat-square&logo=jenkins&logoColor=white) |
 | ![](https://img.shields.io/badge/IaC-7B42BC?style=flat-square) | ![](https://img.shields.io/badge/Terraform-7B42BC?style=flat-square&logo=terraform&logoColor=white) |
 | ![](https://img.shields.io/badge/Monitoring-E6522C?style=flat-square) | ![](https://img.shields.io/badge/CloudWatch-FF4F8B?style=flat-square&logo=amazoncloudwatch&logoColor=white) ![](https://img.shields.io/badge/Prometheus-E6522C?style=flat-square&logo=prometheus&logoColor=white) ![](https://img.shields.io/badge/Grafana-F46800?style=flat-square&logo=grafana&logoColor=white) |
-| ![](https://img.shields.io/badge/Scripting-4EAA25?style=flat-square) | ![](https://img.shields.io/badge/Bash-4EAA25?style=flat-square&logo=gnubash&logoColor=white) ![](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) |
+| ![](https://img.shields.io/badge/Scripting-4EAA25?style=flat-square) | ![](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) |
 
 ---
 
@@ -55,9 +55,11 @@
 
 ## 📫 Contact Me
 <div align="center">
-<a href="https://www.linkedin.com/in/gaurav-patil-37292a273"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-<a href="https://github.com/Gaurav26539"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
+  <a href="https://www.linkedin.com/in/gaurav-patil-37292a273"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  <a href="https://github.com/Gaurav26539"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
+  <a href="mailto:patilgaurav308@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
 </div>
+
 
 ---
 
