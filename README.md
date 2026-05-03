@@ -25,7 +25,7 @@
 
 | Domain | Technologies |
 |------|-------------|
-| ![](https://img.shields.io/badge/Public%20Cloud-0e75b6?style=flat-square) | ![](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonaws&logoColor=white) |
+| ![](https://img.shields.io/badge/Public%20Cloud-0e75b6?style=flat-square) | ![](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonaws&logoColor=white) (EC2, S3, IAM, VPC, RDS, CloudWatch, Route 53) |
 | ![](https://img.shields.io/badge/Orchestration-6DB33F?style=flat-square) | ![](https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white) ![](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white) |
 | ![](https://img.shields.io/badge/Networking-ff9800?style=flat-square) | ![](https://img.shields.io/badge/ALB/NLB-555555?style=flat-square) ![](https://img.shields.io/badge/Nginx%20Ingress-009639?style=flat-square&logo=nginx&logoColor=white) ![](https://img.shields.io/badge/Route53-8C4FFF?style=flat-square) |
 
