@@ -10,7 +10,7 @@
 
 ## 👨‍💻 About Me
 
-- 🎓 2025 Post-Graduate from **B.K.Birla College**
+- 🎓 2025 Post-Graduate from **B.K.Birla College, Mumbai University**
 - 🔧 Aspiring **DevOps / Cloud Engineer**
 - 🚀 Interested in **cloud infrastructure, automation, and CI/CD pipelines**
 - 🌱 Learning through hands-on projects and real-world deployments
@@ -25,7 +25,7 @@
 
 | Domain | Technologies |
 |------|-------------|
-| ![](https://img.shields.io/badge/Public%20Cloud-0e75b6?style=flat-square) | ![](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonaws&logoColor=white) ![](https://img.shields.io/badge/Azure-0078D4?style=flat-square&logo=microsoftazure&logoColor=white) |
+| ![](https://img.shields.io/badge/Public%20Cloud-0e75b6?style=flat-square) | ![](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonaws&logoColor=white) |
 | ![](https://img.shields.io/badge/Orchestration-6DB33F?style=flat-square) | ![](https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white) ![](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white) |
 | ![](https://img.shields.io/badge/Networking-ff9800?style=flat-square) | ![](https://img.shields.io/badge/ALB/NLB-555555?style=flat-square) ![](https://img.shields.io/badge/Nginx%20Ingress-009639?style=flat-square&logo=nginx&logoColor=white) ![](https://img.shields.io/badge/Route53-8C4FFF?style=flat-square) |
 
@@ -34,7 +34,7 @@
 | Category | Tools |
 |------|-------------|
 | ![](https://img.shields.io/badge/Version%20Control-F05032?style=flat-square) | ![](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white) ![](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white) |
-| ![](https://img.shields.io/badge/CI%2FCD-2088FF?style=flat-square) | ![](https://img.shields.io/badge/GitHub%20Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white) ![](https://img.shields.io/badge/Jenkins-D24939?style=flat-square&logo=jenkins&logoColor=white) |
+| ![](https://img.shields.io/badge/CI%2FCD-2088FF?style=flat-square) |![](https://img.shields.io/badge/Jenkins-D24939?style=flat-square&logo=jenkins&logoColor=white) |
 | ![](https://img.shields.io/badge/IaC-7B42BC?style=flat-square) | ![](https://img.shields.io/badge/Terraform-7B42BC?style=flat-square&logo=terraform&logoColor=white) |
 | ![](https://img.shields.io/badge/Monitoring-E6522C?style=flat-square) | ![](https://img.shields.io/badge/CloudWatch-FF4F8B?style=flat-square&logo=amazoncloudwatch&logoColor=white) ![](https://img.shields.io/badge/Prometheus-E6522C?style=flat-square&logo=prometheus&logoColor=white) ![](https://img.shields.io/badge/Grafana-F46800?style=flat-square&logo=grafana&logoColor=white) |
 | ![](https://img.shields.io/badge/Scripting-4EAA25?style=flat-square) | ![](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) |
